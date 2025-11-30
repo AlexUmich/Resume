@@ -3,4 +3,4 @@ For the coding aspects of my previous few work projects.
 
 These programs could definitely be improved, but they are from my freshman and sophomore years of college; I've since improved and learned more.
 
-(And all manually coded/made before the explosion of mainstream AI use in late 2023).
+(And all manually coded/made before the explosion of mainstream AI and its usage in late 2023).
