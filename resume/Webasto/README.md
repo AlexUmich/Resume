@@ -5,4 +5,4 @@ First time using C#, learned about communication programs and data transferring.
 
 The PressParam program is very similar to the DataCollection one, same setup, but with some changes for its different application.
 
-Included both files just to show everything C# related. Missing some basic script writing that I don't have anymore.
+Included both files just to show everything C# related.
