@@ -229,7 +229,7 @@ namespace ConsoleApplication {
                         csv99.Clear();
                     }
                     else if(!File.Exists(path)) {
-                        ile.AppendAllText(path, csv0.ToString());
+                        File.AppendAllText(path, csv0.ToString());
                     }
                     if(data2.Substring(1,4) == "C1R3") {
                         csv13.AppendLine(data);
