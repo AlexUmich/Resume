@@ -1,2 +1,2 @@
 # Resume
-For the coding aspects of my previous few work & school projects
+The coding aspects of my previous work & school projects
