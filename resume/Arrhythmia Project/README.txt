@@ -1,9 +1,8 @@
-Website: https://sites.google.com/umich.edu/eecs351-group18/home?authuser=0
+Personal Class Project
 
 Data: https://physionet.org/content/mitdb/1.0.0/
 
-The data is pulled from the database using an api, so please ensure proper internet connection
-before running the program
+Data is pulled from a database using an api, so a proper internet connection is required before running the program
 
 ----- Guide To Use The Algorithm -----
 1. First you must select a record from the MIT-BIH Database. The program is not user friendly,
